@@ -9,5 +9,8 @@
 <body>
     <p>hello world</p>
     <p>menambahkan paragraf baru</p>
+    <ol>
+        <li>menambahkan list baru</li>
+    </ol>
 </body>
 </html>
